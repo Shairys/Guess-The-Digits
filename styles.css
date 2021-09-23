@@ -1,0 +1,38 @@
+#downPanel{
+    width: 750px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: #0d0e0e;
+    padding: 10px;
+}
+
+#topPanel{
+    width: 750px;
+    height: 300px;
+    padding: 10px;
+    padding-top: 20px;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #0d0e0e;
+}
+
+#topPanel > *{
+    margin: 10px;
+}
+
+
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #e7e5e1;
+    font-size: 28px;
+}
+
+body{
+    background-color: #17191a
+}
+
+input{
+    background-color: #262a2b;
+}
